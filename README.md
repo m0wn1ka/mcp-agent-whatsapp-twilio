@@ -1,4 +1,4 @@
-# mcp-agent-whatsapp
+# mcpServer-ReAct agent-whatsapp
 ## tech used
 - reAct  agent which would call tools
 - mcp server and tools, agent will use these tools whenever necessary
